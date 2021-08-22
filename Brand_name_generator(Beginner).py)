@@ -1,0 +1,9 @@
+#1. Create a greeting for your program.
+print("We can name any of your busness")
+#2. Ask the user for place.
+city = input("Where did you plan for the business to start ? \n")
+#3. Ask the user for type of business they are planning to do.
+type_of_business = input("What kind of business are you planning to do ? \n")
+#4. Combine the name of their city and pet and show them their band name.
+print("'" + city + " " + type_of_business + "' "+ "Could be a nice name for your business")
+
